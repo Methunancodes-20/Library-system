@@ -1,0 +1,11 @@
+D:\C#\LibraryAssignment\LibraryAssignment\bin\Debug\netcoreapp2.1\LibraryAssignment.deps.json
+D:\C#\LibraryAssignment\LibraryAssignment\bin\Debug\netcoreapp2.1\LibraryAssignment.runtimeconfig.json
+D:\C#\LibraryAssignment\LibraryAssignment\bin\Debug\netcoreapp2.1\LibraryAssignment.runtimeconfig.dev.json
+D:\C#\LibraryAssignment\LibraryAssignment\bin\Debug\netcoreapp2.1\LibraryAssignment.dll
+D:\C#\LibraryAssignment\LibraryAssignment\bin\Debug\netcoreapp2.1\LibraryAssignment.pdb
+D:\C#\LibraryAssignment\LibraryAssignment\obj\Debug\netcoreapp2.1\LibraryAssignment.csprojAssemblyReference.cache
+D:\C#\LibraryAssignment\LibraryAssignment\obj\Debug\netcoreapp2.1\LibraryAssignment.csproj.CoreCompileInputs.cache
+D:\C#\LibraryAssignment\LibraryAssignment\obj\Debug\netcoreapp2.1\LibraryAssignment.AssemblyInfoInputs.cache
+D:\C#\LibraryAssignment\LibraryAssignment\obj\Debug\netcoreapp2.1\LibraryAssignment.AssemblyInfo.cs
+D:\C#\LibraryAssignment\LibraryAssignment\obj\Debug\netcoreapp2.1\LibraryAssignment.dll
+D:\C#\LibraryAssignment\LibraryAssignment\obj\Debug\netcoreapp2.1\LibraryAssignment.pdb
